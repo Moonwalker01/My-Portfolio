@@ -61,7 +61,7 @@
                             <li class="nav-item"><a class="nav-link" href="#features">Features</a></li>
                             <li class="nav-item"><a class="nav-link" href="#portfolio">Portfolio</a></li>
                             <li class="nav-item"><a class="nav-link" href="#resume">Resume</a></li>
-                            <li class="nav-item"><a class="nav-link" href="assets/doc/OLUWAPELUMI SIMILOLUWA IBIGBEMI cvv.docx">Download CV</a></li>
+                            <li class="nav-item"><a class="nav-link" href="assets/doc/my_cv.docx">Download CV</a></li>
                             <li class="nav-item"><a class="nav-link" href="#contacts">Contact</a></li>
                         </ul>
                         <!-- End Mainmanu Nav -->
